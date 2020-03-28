@@ -36,3 +36,13 @@ Shared Preference
 Azkary App Screan shots
 
 
+![](Screan%20Shots/Screenshot_20200327-234054.png) 
+![](Screan%20Shots/Screenshot_20200327-234101.png)
+![](Screan%20Shots/Screenshot_20200327-234116.png)
+![](Screan%20Shots/Screenshot_20200327-234153.png)
+![](Screan%20Shots/Screenshot_20200327-234123.png)
+![](Screan%20Shots/Screenshot_20200327-234148.png)
+![](Screan%20Shots/Screenshot_20200327-234205.png)
+![](Screan%20Shots/Screenshot_20200327-234249.png)
+![](Screan%20Shots/Screenshot_20200327-234254.png)
+![](Screan%20Shots/Screenshot_20200327-234300.png)
