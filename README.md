@@ -35,14 +35,14 @@ Shared Preference
 
 Azkary App Screan shots
 
+<img src="Screan%20Shots/Screenshot_20200327-234054.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234101.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234116.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234153.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234123.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234148.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234205.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234249.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234254.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234300.png" width="150" hight="20">,
 
-![](Screan%20Shots/Screenshot_20200327-234054.png) 
-![](Screan%20Shots/Screenshot_20200327-234101.png)
-![](Screan%20Shots/Screenshot_20200327-234116.png)
-![](Screan%20Shots/Screenshot_20200327-234153.png)
-![](Screan%20Shots/Screenshot_20200327-234123.png)
-![](Screan%20Shots/Screenshot_20200327-234148.png)
-![](Screan%20Shots/Screenshot_20200327-234205.png)
-![](Screan%20Shots/Screenshot_20200327-234249.png)
-![](Screan%20Shots/Screenshot_20200327-234254.png)
-![](Screan%20Shots/Screenshot_20200327-234300.png)
