@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">اذكارى</string>
+    <string-array name="azkar">
+        <item>سبحان الله وبحمده</item>
+        <item>لا اله الا لله وحده لا شريك له له الملك وله الحمد</item>
+        <item>الله اكبر</item>
+        <item>لا حول ولا قوه الا بالله العلى العظيم</item>
+        <item>استغفر الله العظيم</item>
+        <item>اللهم صل وسلم وبارك على سيدنا محمد</item>
+    </string-array>
+</resources>
