@@ -37,6 +37,7 @@ Azkary App Screan shots
 
 <img src="Screan%20Shots/Screenshot_20200327-234054.png" width="150" hight="20">,
 <img src="Screan%20Shots/Screenshot_20200327-234101.png" width="150" hight="20">,
+<img src="Screan%20Shots/Screenshot_20200327-234108.png" width="150" hight="20">,
 <img src="Screan%20Shots/Screenshot_20200327-234116.png" width="150" hight="20">,
 <img src="Screan%20Shots/Screenshot_20200327-234153.png" width="150" hight="20">,
 <img src="Screan%20Shots/Screenshot_20200327-234123.png" width="150" hight="20">,
